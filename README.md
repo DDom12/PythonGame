@@ -1,2 +1,2 @@
 # PythonGame
-Great game made using Python
+Great game made by using Python
